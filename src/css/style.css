@@ -10,7 +10,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* .container {
+ .container {
     width: 100%;
     height: 100vh;
     display: flex;
@@ -25,10 +25,10 @@ h3 {
 }
 
 #excuse {
-    font-size: 4rem;
+    font-size: 2rem;
     font-weight: 700;
-    background: linear-gradient(to right, #4f27ff, #ff0000, #08007c, #3c9c61 );
+    background: linear-gradient(to right, #4f27ff, #ff0000, #3c9c61, #08007c );
     color: transparent;
     background-clip: text;
-    margin: 4rem;
-} */
+    margin: 2rem;
+}
